@@ -1,4 +1,4 @@
-a=6
-b=7
-c=a*b
+a = 7
+b = 6
+c = a * b
 print (c)
