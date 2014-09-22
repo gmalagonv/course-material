@@ -1,2 +1,2 @@
-a="zyxwvUtsrqpOnmlkjIhgfEdcbA"
+a = "zyxwvUtsrqpOnmlkjIhgfEdcbA"
 print (a)
