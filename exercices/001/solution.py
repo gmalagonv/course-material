@@ -1,2 +1,1 @@
-a="abcdefghijklnmopqrstuvwxyz"
-print (a)
+print ("zyxwvUtsrqpOnmlkjIhgfEdcbA")
