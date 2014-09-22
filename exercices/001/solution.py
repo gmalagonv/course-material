@@ -1,0 +1,2 @@
+a="abcdefghijklnmopqrstuvwxyz"
+print (a)
