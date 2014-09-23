@@ -6,4 +6,4 @@ a = """Turmoil has engulfed the Galactic Republic. The\
  endlessly debates this alarming chain of events, the Supreme\
  Chancellor has secretly dispatched two Jedi Knights, the guardians of\
  peace and justice in the galaxy, to settle the conflict"""
-len(a)
+print(len(a))
