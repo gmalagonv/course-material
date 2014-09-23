@@ -6,4 +6,3 @@ for i in alph:
         print(i + alph[c])
         c = c + 1
     c = 0
-  
