@@ -1,3 +1,3 @@
 def sqrt(a):
-    b = a ** 2
+    b = a ** 0.5
     print(b)
