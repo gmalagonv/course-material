@@ -6,7 +6,7 @@ for i in alph:
     while c < a:
         d = (i + alph[c])
         e = (alph[c] + i)
-        if d in lista:
+        if d in lista or i == alph[c]:
             c = c + 1
         else:
             print(d)
