@@ -7,4 +7,4 @@ a = """Turmoil has engulfed the Galactic Republic. The\
  Chancellor has secretly dispatched two Jedi Knights, the guardians of\
  peace and justice in the galaxy, to settle the conflict"""
 b = a.split()
-len(b)
+print(len(b))
