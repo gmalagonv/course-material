@@ -1,4 +1,4 @@
-alph = ("abcdefghijklnmopqrstuvwxyz")
+alph = ("abcdefghijklmnopqrstuvwxyz")
 a = len(alph)
 c = 0
 for i in alph:
