@@ -1,12 +1,12 @@
 def is_prime(a):
     if a == 2:
-        return True         
+        return True
     else:
         if a > 1:
-            for i in range(3,a):
+            for i in range(3, a):
                 if a % i == 0:
-                    return False                    
+                    return False
                 else:
-                   return True
+                    return True
         else:
             print("input error")
