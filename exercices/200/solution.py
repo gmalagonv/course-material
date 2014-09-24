@@ -9,4 +9,5 @@ def is_prime(a):
                 else:
                     return True
         else:
-            print("input error")
+            return False
+            
