@@ -10,4 +10,3 @@ def is_prime(a):
                     return True
         else:
             return False
-            
