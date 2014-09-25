@@ -6,4 +6,5 @@ def draw_n_squares(n):
     e = "\n"
     f = (a * (n - 1) + b)
     g = (e + c * (n - 1) + d + e)
-    print(n * (f + g) + f)
+    h = (n * (f + g) + f)
+    return h
