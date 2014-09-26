@@ -2,6 +2,8 @@
 
 Introduces: range.
 
+Author(s): Julien Palard
+
 ## Instructions
 
 Consider the [fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) starting with 1, 2, 3.
@@ -11,7 +13,7 @@ dot. Such as:
 
 ```bash
 $ python3 solution.py
-1, 2, 3 ...
+1, 2, 3.
 ```
 
 ## References
